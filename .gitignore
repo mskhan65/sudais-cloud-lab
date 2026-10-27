@@ -1,0 +1,7 @@
+.env*
+!.env.example
+*.pem
+*.key
+.venv/
+*.tfstate*
+.terraform/
